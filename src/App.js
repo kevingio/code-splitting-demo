@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-import Home from './components/Home';
-import BigVendor from './components/BigVendor';
+import Home from './components/Home/Home';
+import BigVendor from './components/BigVendor/BigVendor';
 
 const App = () => {
   return (
